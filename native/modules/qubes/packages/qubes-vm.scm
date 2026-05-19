@@ -57,9 +57,9 @@
     ("qubes-core-qrexec" "v4.3.12"
      "cc801b8f630a65dfb2855b829bfc070f6e82f26a"
      "1lbz435sjs3d7pc9ymnwxqi14sc83xdnny5pzwp8c580rraysvd4")
-    ("qubes-core-agent-linux" "v4.3.42"
-     "37dd9cd76aa74669b80b849a650f35b982d922ec"
-     "13xsvgrdq3ihr0ryf4js03cyb4hns9i496m5bhbrfiwqcxyv3g41")
+    ("qubes-core-agent-linux" "v4.3.43"
+     "0f20e0b74cfca0fcf42c3658099a1cedd26bde60"
+     "0dlf2rxvi2yjzv59a1pjy98d4cm8ad7cg08g9d8392ly5l0sw5gn")
     ("qubes-gui-common" "v4.3.1"
      "66b879e36d6cd2a01271fc8d4c2c0f3be85d0029"
      "1ilr2wximl82y05f9dha69pjwhks2c73cfh08yxpnbdg5yspcc24")
